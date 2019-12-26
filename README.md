@@ -72,4 +72,4 @@ Lecture 'Python for Machine Learning/Deep Learning' practice.
  - Performance	measures	for	classification References
 #### References 
 - K-MOOC:	데이터	과학을	위한	파이썬	입문 O
-- peration	Research	with	Python	Programming
+- Operation	Research	with	Python	Programming
